@@ -1,0 +1,17 @@
+{
+  "name": "indeed-firebase",
+  "version": "1.0.0",
+  "description": "Grab info from indeed api and store in firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Tewksbury",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "firebase": "^2.4.2",
+    "progress": "^1.1.8",
+    "request-promise": "^3.0.0"
+  }
+}
